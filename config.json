@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "BeWelcome Community Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "GNU General Public License v2.0  - join us on <a href="https://www.bewelcome.org">BeWelcome</a>,
   "usage-stats": false
 }
