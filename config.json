@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "GNU General Public License v2.0  - join us on <a href="https://www.bewelcome.org">BeWelcome</a>,
+  "footer": "GNU General Public License v2.0  - join us on <a href=\"https://www.bewelcome.org\">BeWelcome<\/a>",
   "usage-stats": false
 }
