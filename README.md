@@ -1,6 +1,11 @@
 # BeWelcome Community Gallery
 Share your photo/video/media in a BeWelcome gallery in Github pages easily.
 
+See: https://bewelcome.github.io/community-gallery/
+
+Also look at some misc source files here:
+https://github.com/BeWelcome/community-gallery/tree/master/gallery/misc
+
 ## Share your work on the BeWelcome Community Gallery :mega:
 
 1. :balloon: Create an github account and fork the repository on Github.
